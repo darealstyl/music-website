@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/music-website/static/css/main.f690de2f.css",
-    "main.js": "/music-website/static/js/main.01a4e6cc.js",
+    "main.css": "/music-website/static/css/main.887c5725.css",
+    "main.js": "/music-website/static/js/main.68cdf993.js",
     "static/js/787.587eed73.chunk.js": "/music-website/static/js/787.587eed73.chunk.js",
     "static/media/Homebound.wav": "/music-website/static/media/Homebound.9e2742e6f188b0779c6e.wav",
     "static/media/Taking.wav": "/music-website/static/media/Taking.cc5d9ecf660c87e92f63.wav",
@@ -10,17 +10,20 @@
     "static/media/pfp2.jpg": "/music-website/static/media/pfp2.9a21f038deafe30cbc5d.jpg",
     "static/media/30mins.jpg": "/music-website/static/media/30mins.b686d8f0a05ea5f82b92.jpg",
     "static/media/logo.png": "/music-website/static/media/logo.a6ca4e8698f1a2dc1216.png",
+    "static/media/spotify-logo.svg": "/music-website/static/media/spotify-logo.15717ab150659b24d49036fb3d7effc8.svg",
+    "static/media/soundcloud.svg": "/music-website/static/media/soundcloud.e11112108ebe99bbd6807f9775611779.svg",
+    "static/media/instagram.svg": "/music-website/static/media/instagram.7f979cd4f66d3880ef6237f6ad03d3cd.svg",
     "static/media/pause.svg": "/music-website/static/media/pause.fb88548003ec45475f04bccffb40f95c.svg",
     "static/media/prev.svg": "/music-website/static/media/prev.d4c47e5b22e682c88130b4d965732679.svg",
     "static/media/next.svg": "/music-website/static/media/next.535d2810b68d1b95c336413945a243b5.svg",
     "index.html": "/music-website/index.html",
     "static/media/play.svg": "/music-website/static/media/play.751c39f9c7c7f70fdb841c94ea0ff96d.svg",
-    "main.f690de2f.css.map": "/music-website/static/css/main.f690de2f.css.map",
-    "main.01a4e6cc.js.map": "/music-website/static/js/main.01a4e6cc.js.map",
+    "main.887c5725.css.map": "/music-website/static/css/main.887c5725.css.map",
+    "main.68cdf993.js.map": "/music-website/static/js/main.68cdf993.js.map",
     "787.587eed73.chunk.js.map": "/music-website/static/js/787.587eed73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f690de2f.css",
-    "static/js/main.01a4e6cc.js"
+    "static/css/main.887c5725.css",
+    "static/js/main.68cdf993.js"
   ]
 }
