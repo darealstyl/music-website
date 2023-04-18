@@ -1,10 +1,13 @@
 {
   "files": {
     "main.css": "/music-website/static/css/main.887c5725.css",
-    "main.js": "/music-website/static/js/main.68cdf993.js",
+    "main.js": "/music-website/static/js/main.01eeca85.js",
     "static/js/787.587eed73.chunk.js": "/music-website/static/js/787.587eed73.chunk.js",
     "static/media/Homebound.wav": "/music-website/static/media/Homebound.9e2742e6f188b0779c6e.wav",
     "static/media/Taking.wav": "/music-website/static/media/Taking.cc5d9ecf660c87e92f63.wav",
+    "static/media/ItsTooLate.wav": "/music-website/static/media/ItsTooLate.e275a3aad11d40514c63.wav",
+    "static/media/Journey.wav": "/music-website/static/media/Journey.a0d44d20f720d2448bbb.wav",
+    "static/media/Missing.wav": "/music-website/static/media/Missing.6f2924775d6968ba4690.wav",
     "static/media/Forget Tomorrow.wav": "/music-website/static/media/Forget Tomorrow.6ad6d8af0d5cbe2e8baf.wav",
     "static/media/Noisy.png": "/music-website/static/media/Noisy.ec565edaec9e35f30777.png",
     "static/media/pfp2.jpg": "/music-website/static/media/pfp2.9a21f038deafe30cbc5d.jpg",
@@ -19,11 +22,11 @@
     "index.html": "/music-website/index.html",
     "static/media/play.svg": "/music-website/static/media/play.751c39f9c7c7f70fdb841c94ea0ff96d.svg",
     "main.887c5725.css.map": "/music-website/static/css/main.887c5725.css.map",
-    "main.68cdf993.js.map": "/music-website/static/js/main.68cdf993.js.map",
+    "main.01eeca85.js.map": "/music-website/static/js/main.01eeca85.js.map",
     "787.587eed73.chunk.js.map": "/music-website/static/js/787.587eed73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.887c5725.css",
-    "static/js/main.68cdf993.js"
+    "static/js/main.01eeca85.js"
   ]
 }
