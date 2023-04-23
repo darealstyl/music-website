@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/music-website/static/css/main.dccb98bf.css",
+    "main.css": "/music-website/static/css/main.43adc939.css",
     "main.js": "/music-website/static/js/main.acb41945.js",
     "static/js/787.587eed73.chunk.js": "/music-website/static/js/787.587eed73.chunk.js",
     "static/media/Homebound.wav": "/music-website/static/media/Homebound.9e2742e6f188b0779c6e.wav",
@@ -21,12 +21,12 @@
     "static/media/next.svg": "/music-website/static/media/next.535d2810b68d1b95c336413945a243b5.svg",
     "index.html": "/music-website/index.html",
     "static/media/play.svg": "/music-website/static/media/play.751c39f9c7c7f70fdb841c94ea0ff96d.svg",
-    "main.dccb98bf.css.map": "/music-website/static/css/main.dccb98bf.css.map",
+    "main.43adc939.css.map": "/music-website/static/css/main.43adc939.css.map",
     "main.acb41945.js.map": "/music-website/static/js/main.acb41945.js.map",
     "787.587eed73.chunk.js.map": "/music-website/static/js/787.587eed73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dccb98bf.css",
+    "static/css/main.43adc939.css",
     "static/js/main.acb41945.js"
   ]
 }
